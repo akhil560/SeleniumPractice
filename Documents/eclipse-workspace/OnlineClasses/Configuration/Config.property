@@ -1,0 +1,15 @@
+chromeDriver = C:\\Users\\akhildarling\\Documents\\eclipse-workspace\\OnlineClasses\\src\\test\\resources\\binaries\\chromedriver.exe
+
+firefoxDriver = C:\\Users\\akhildarling\\Documents\\eclipse-workspace\\OnlineClasses\\src\\test\\resources\\binaries\\geckodriver.exe
+
+URL = https://www.facebook.com/
+
+PageFactory_URL = http://demosite.center/wordpress/wp-login.php
+
+PageFactoryloginsuccessURL = http://demosite.center/wordpress/wp-admin/
+
+WordPressURl = http://demosite.center/wordpress/wp-login.php
+
+WordPressLoginURL = http://demosite.center/wordpress/wp-admin/
+
+Excelpath = 

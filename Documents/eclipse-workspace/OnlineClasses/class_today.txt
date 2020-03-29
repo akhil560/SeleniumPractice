@@ -1,0 +1,9 @@
+ex:project
+
+im main java we have 3 packages
+
+ex : cts.miniproject.utility;
+     create class(Configreader)
+     create a spcl method (constructor)
+
+	
